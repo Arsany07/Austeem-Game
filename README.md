@@ -24,11 +24,11 @@ This game targets autistic children aged **5–16**. It simulates a virtual city
 
 | Location  | Mini-Game                        | Skills Targeted                      |
 |-----------|----------------------------------|--------------------------------------|
-| Home      | Emotion Recognition              | Identifying & labeling emotions      |
-| School    | Alphabet, Number Learning & Color Game       | Arabic letters, counting             |
+| Home      | Emotion Recognition, food differentiation              | Identifying & labeling emotions, fruits & vegetables      |
+| School    | Alphabet, Number Learning & Color Game       | Arabic letters, counting, colors             |
 | Market    | Money Game                       | Recognizing and using currency       |
-| Zoo       | Animal Puzzle, Selective Catch   | Fine motor skills, category sorting  |
-| Club      | Focus Racer          | Attention, visual response, color ID |
+| Zoo       | Animal Puzzle   | learn bout animals  |
+| Club      | Focus Racer, Selective Catch         | Attention, visual response, Fine motor skills, category sorting |
 
 Each game includes:
 - 🧠 **Learning Phase**: with audio and visual aids  
@@ -43,36 +43,14 @@ Each game includes:
 
 ## 📹 Demo Videos
 
-| Mini-Game             | Demo |
-|-----------------------|------|
-| Emotion Recognition   | [Watch Demo](videos/emotion_game_demo.mp4) |
-| Alphabet Game         | [Watch Demo](videos/alphabet_game_demo.mp4) |
-| Number Learning       | [Watch Demo](videos/number_game_demo.mp4) |
-| Money Game            | [Watch Demo](videos/money_game_demo.mp4) |
-| Focus Racer           | [Watch Demo](videos/focus_racer_demo.mp4) |
-> Alternatively: [View all demos on YouTube](https://youtube.com/your-channel-link)
+- 🎮 [Full Game Demo](https://drive.google.com/file/d/1O-Z62LknAkMtyXUONhWp-vVTbYwbZmKC/view?usp=sharing)
+- 🔢 [Numbers Minigame](https://drive.google.com/file/d/1elxxR-ZCCL_uCGkzqz_SkN3nf2DGPOkt/view?usp=sharing)
+- 💰 [Money Minigame](https://drive.google.com/file/d/17NvzBJjtVtcDHBT0Tjc1cG6kdDaS90aT/view?usp=drive_link)
+- 😊 [Emotions Minigame](https://drive.google.com/file/d/1-bvxtP5EkA3j0upxcaHwfduhtjcO709B/view?usp=sharing)
+- 🔤 [Alphabets Minigame](https://drive.google.com/file/d/1OR23PTRmRFtkc2EwgYQfMFIwHDvazCD-/view?usp=sharing)
+
+> Alternatively: [View all demos](https://drive.google.com/drive/folders/1Z1dULZc8gjMOnJdNfSKgtKMkYflbEC18?usp=sharing)
 
 ## 📄 Research Paper
 
-The full documentation and methodology can be found in the [Team#19 Graduation Paper (PDF)](docs/Team19_Project_Paper.pdf).
-
-## 👨‍🔬 Team
-
-- Arsany Maged  
-- Ahmed Khaled  
-- Assem Hussein  
-- Kyrillos Emad  
-- Mohamed Gamal  
-- Amira Gaber  
-
-## 📈 Future Improvements
-
-- Add difficulty levels per minigame
-- Virtual Reality (VR) support
-- Therapist feedback and deeper session analytics
-- Wider platform support (e.g., Android tablets)
-
-## ⚖️ License
-
-This project is open for research and educational use. For other uses, please contact the authors.
-
+The full documentation and methodology can be found in the [Austeem game Paper (PDF)](https://drive.google.com/file/d/1gNn_jrpf4Nj714VWe6AsSEMHGiOnGj5U/view?usp=sharing).
