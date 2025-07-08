@@ -1,7 +1,7 @@
 # Austeem-Game
 
 A serious game developed to help **autistic children** improve emotional, cognitive, and communication skills through interactive learning.
--[MY project video](https://www.youtube.com/watch?v=XxzDhRH_ri4)
+- [My project video](https://www.youtube.com/watch?v=XxzDhRH_ri4)
 
 ## 👨‍👩‍👧‍👦 Purpose
 
